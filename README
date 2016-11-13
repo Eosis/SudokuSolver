@@ -1,8 +1,4 @@
-Get your friends and colleagues to believe that you have the time and inclination to solve boring sudoku puzzles!
-
-Just write the grid into the app, run it and your done!
-
-Edit the grid in main.py to match your Sudoku.
+A sudoku solver. Definitely not optimal but was fun to write.
 
 This solution:
  - Doesn't work out multiple solutions...
